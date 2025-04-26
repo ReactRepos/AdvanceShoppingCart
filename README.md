@@ -17,7 +17,7 @@ It allows users to browse products, add or remove items from the cart, update qu
 
 ## 🚀 Live Demo
 
-[👉 Live Demo Link]('./public/advance_shopping_card.gif')
+![Advance Shopping Cart]('./public/advance_shopping_card.gif')
 
 ---
 
